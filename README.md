@@ -28,6 +28,7 @@ $ git clone [https://github.com/SplinterCel3000/Interfaces.git]
 
 #### Application Start
 ![Image 1](https://cdn.discordapp.com/attachments/583516117201584128/692547837698899998/20200325_183742.jpg)
+![Image 2](https://cdn.discordapp.com/attachments/583516117201584128/692848298670948413/JPEG_20200326_143141.jpg)
 
 ---
 
